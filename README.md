@@ -1,2 +1,2 @@
-# zoodogood.github.io
-The first version of my GitLife
+# zoodogood — Z OO O DG OD
+*The first version of my GitLife*
